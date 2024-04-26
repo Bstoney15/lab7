@@ -1,0 +1,13 @@
+ul.Practice {
+    list-style-type: none;
+}
+
+
+p.TextWithBorder {
+    border: solid;
+    border-color: black;
+    border-width: 2em;
+}
+
+
+
